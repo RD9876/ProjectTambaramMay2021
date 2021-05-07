@@ -11,7 +11,13 @@ public class Sample {
 		System.out.println(f);
 		int b = 30;
 		System.out.println(b);
+		System.out.println("ABC");
 	}
 }
 
+//Java---OOPs,String,Collection,Exceptions
+//Selenium---Scenarios
+//Frameworkk----How to read data from excel,
+//Explain POM,Junit vs TestNG,Java Programs
+//TestNG ,Cucumber
 
